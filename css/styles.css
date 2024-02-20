@@ -1,0 +1,15 @@
+html{
+    font-family: 'Lobster', sans-serif;
+    color: black;
+    font-size: 1.5em;
+}
+#myStudentId{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(4, 34, 34);
+    font-size: 1.7em;
+}
+img{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
